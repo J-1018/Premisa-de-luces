@@ -1,0 +1,38 @@
+body {
+    background-color: #ffeaea;
+    font-family: 'Georgia', serif;
+    margin: 0;
+    padding: 0;
+    color: #4b2e2e;
+  }
+  
+  .contenedor {
+    max-width: 700px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #fff5f5;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 2.5em;
+    color: #d14444;
+    margin-bottom: 30px;
+  }
+  
+  p {
+    font-size: 1.2em;
+    line-height: 1.8;
+    margin-bottom: 20px;
+  }
+  
+  .firma {
+    text-align: right;
+    font-style: italic;
+    margin-top: 40px;
+    font-size: 1.1em;
+    color: #a33;
+  }
+  
